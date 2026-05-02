@@ -1,6 +1,6 @@
 ---
 name: plan-feature
-description: Use when the user wants to plan a new feature, task, or change before implementation — produces a written plan in docs/plans/ without writing any code or making implementation decisions
+description: Use when the user wants to plan a new feature, task, or change before implementation — triggered by phrases like "Crie uma feature", "Quero planejar", "Preciso de um plano", "Vamos planejar" — produces a written plan in docs/plans/ without writing any code or making implementation decisions
 ---
 
 # Feature Planning

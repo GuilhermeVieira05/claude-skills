@@ -1,6 +1,6 @@
 ---
 name: breakdown-feature
-description: Use when a planned feature needs to be broken into phases and tasks before implementation — reads existing architecture/design skills to understand project conventions and produces code prototypes per task
+description: Use when a planned feature needs to be broken into phases and tasks before implementation — triggered by phrases like "Desenvolva", "Quebre em tarefas", "Divida a feature", "Quero desenvolver" — reads existing architecture/design skills to understand project conventions and produces code prototypes per task
 ---
 
 # Feature Breakdown
